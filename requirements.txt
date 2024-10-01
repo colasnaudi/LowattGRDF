@@ -1,7 +1,7 @@
 attrs==23.2.0
 bemserver-api-client==0.20.3
 cattrs==23.2.3
-certifi==2024.2.2
+certifi==2024.7.4
 charset-normalizer==3.3.2
 click==8.1.7
 idna==3.7
